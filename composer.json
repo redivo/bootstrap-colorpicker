@@ -1,15 +1,12 @@
 {
-  "name": "itsjavi/bootstrap-colorpicker",
-  "description": "Bootstrap Colorpicker is a modular color picker plugin for Bootstrap 4.",
+  "name": "redivo/bootstrap-colorpicker",
+  "description": "Bootstrap Colorpicker is a modular color picker plugin for Bootstrap 4 (forked from itsjavi).",
   "license": "MIT",
   "homepage": "https://itsjavi.com/bootstrap-colorpicker/",
   "keywords": [
     "bootstrap",
     "colorpicker"
   ],
-  "support": {
-    "issues": "https://github.com/itsjavi/bootstrap-colorpicker/issues"
-  },
   "authors": [
     {
       "name": "Javi Aguilar",
